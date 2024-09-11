@@ -36,19 +36,7 @@ The *Login Form Project* is designed to showcase a functional and visually appea
 ## Requirements
 To run the project locally, you need a modern web browser (e.g., Chrome, Firefox, Safari) and an internet connection to hit the API endpoint.
 
-## Installation and Setup
 
-1. *Clone the Repository*:
-   bash
-   git clone https://github.com/your-username/login-form.git
-   cd login-form
-   
-
-2. *Open the Project*:
-   - Navigate to the project folder and open the index.html file in a web browser.
-
-3. *Run the Project*:
-   - Simply open the index.html file in your browser, and the login form will be displayed.
 
 ## Testing the API
 1. *Submit the Form*:
@@ -78,13 +66,8 @@ To run the project locally, you need a modern web browser (e.g., Chrome, Firefox
 3. *UI/UX*: The login form is user-friendly, visually appealing, and responsive on both desktop and mobile devices.
 4. *Bonus Features*: The form includes all the optional features such as "Show/Hide password", "Remember Me", and a loading spinner.
 
----
 
 ### Instructions:
 1. Clone or download the repository and open index.html in your web browser.
 2. Test the form by entering an email and password.
 3. Check the success/error messages after submitting the form.
-
-### Notes:
-- The project integrates with a dummy API for demonstration purposes (https://jsonplaceholder.typicode.com/posts).
-- For real-world usage, replace the API URL with an actual authentication endpoint.
